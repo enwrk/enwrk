@@ -1,8 +1,5 @@
 ## Hi there 👋  
 
-## Co-creator of [quartz.pw](https://quartz.pw) with [@adamrbh](https://github.com/adamrbh)  
-Fast & powerful RDP in France 🚀 (project discontinued)  
-
 ### 🔒 All my repositories are private  
 Don't hesitate to reach out if you're curious about my work!
 
